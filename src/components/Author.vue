@@ -18,7 +18,7 @@
 		<p class="author__links">
 			<a href="https://anchor.fm/oldswanchurch">Sermons</a>
 			<a href="https://youtube.com/channel/UCXA3SpX5Iz-aSLY0U7CA2Bg">YouTube</a>
-			<a href="https://gitlab.com/oldswanchurch/website">GitLab</a>
+			<a href="https://github.com/stoneycroft/church-website">Github</a>
 		</p>
 
 	</div>
