@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'The Stoneycroft Corps',
+  siteName: 'The Liverpool Stoneycroft Corps',
   siteDescription: 'A Salvation Army church.',
 
   templates: {
