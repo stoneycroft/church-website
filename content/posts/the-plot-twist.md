@@ -3,7 +3,7 @@ title: The Plot Twist
 date: 2021-05-09T18:55:02.417Z
 published: true
 cover_image: ../../static/images/uploads/columbo.jpg
-description: The Plot Twist
+description: Romans 1.28-2.16
 ---
 Romans 1.28-2.16 
 
