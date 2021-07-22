@@ -11,7 +11,7 @@ We recently finished our series on Romans and we hope you enjoyed it as much as 
 
 Last Sunday we looked at Safeguarding and how it's a crucial part of our life together here at Stoneycroft. It's not just something the government requires us to do, but it's something that comes from the heart of God. If you want any more info about safeguarding of children and vulnerable adults, please get in touch.
 
-This Sunday we are having our meeting outside at the Newsham Park bandstand ([here](https://www.google.co.uk/maps/@53.415198,-2.9369559,19.3z) on the map). If you need a lift to get there, please do let us know & we can arrange this. We need some people to help with bringing chairs from 9.45am at the hall. Again, please let me know if you can do this.
+This Sunday we are having our meeting outside at the Newsham Park bandstand at 10.30am ([here](https://www.google.co.uk/maps/@53.415198,-2.9369559,19.3z) on the map). If you need a lift to get there, please do let us know & we can arrange this. We need some people to help with bringing chairs from 9.45am at the hall. Again, please let me know if you can do this.
 
 After this, Liz & Tony Roberts are kindly hosting a church picnic in their back garden which is next to the bandstand. They will show us where to go after the meeting.
 
